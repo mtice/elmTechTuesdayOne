@@ -1,0 +1,33 @@
+{
+  "name": "elm-tech-tuesday-one",
+  "version": "1.0.0",
+  "description": "elm initial",
+  "main": "index.js",
+  "dependencies": {
+    "elm": "^0.18.0"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "pulp": "11.0.0",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^4.0.0",
+    "gulp-elm": "^0.6.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-util": "^3.0.7",
+    "purescript": "^0.11.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtice/elmTechTuesdayOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtice/elmTechTuesdayOne/issues"
+  },
+  "homepage": "https://github.com/mtice/elmTechTuesdayOne#readme"
+}
