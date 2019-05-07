@@ -3,7 +3,6 @@ import Html.Events exposing (..)
 import Html.Attributes exposing (..)
 import Http
 
-
 {-
 = set values
   : type definitions "has type"

@@ -1,0 +1,15 @@
+*node_modules/*
+dist/*
+
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
+
+/bower_components/
+/.pulp-cache/
+/output/
+/generated-docs/
+/.psc*
+/.purs*
+/.psa*
